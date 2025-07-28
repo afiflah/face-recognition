@@ -60,6 +60,7 @@ bash
 Copy
 Edit
 python realtime_matcher.py
+
 💡 Catatan
 Encoding wajah akan disimpan dalam file .npy.
 
